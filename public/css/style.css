@@ -23,6 +23,10 @@ article{
     color: #ffffff;
     display: flex;
     flex-direction: column;
+/*    Background colour with transparency*/
+    background-color: rgba(142, 157, 174, 0.7);
+    border-radius: 10px;
+    box-shadow: 0 0 10px #000000;
 }
 .home{
     padding: 16px;
