@@ -63,5 +63,37 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
-  ]
+  ],
+  "shortcuts": [
+    {
+      "name": "About",
+      "short_name": "About",
+      "description": "About",
+      "url": "https://sacert-outwood.herokuapp.com//about.html"
+    },
+    {
+      "name": "Home",
+      "short_name": "Home",
+      "description": "Home",
+      "url": "https://sacert-outwood.herokuapp.com//index.html"
+    },
+    {
+      "name": "Contact",
+      "short_name": "Contact",
+      "description": "Contact",
+      "url": "https://sacert-outwood.herokuapp.com//contact.html"
+    }
+  ],
+  "categories": [
+    "Education",
+    "Government",
+    "Health",
+    "Science",
+    "Society",
+    "Travel"
+  ],
+  "languages": [
+    "en-GB"
+  ],
+  "orientation": "any"
 }

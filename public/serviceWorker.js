@@ -10,8 +10,8 @@
 let cacheName = 'cache-v1';
 let filesToCache = [
     'index.html',
-    'aboutus.html',
-    'contactus.html',
+    'about.html',
+    'contact.html',
     'thestoryofoutwood.html',
     'historyof.html',
     'phasetwo.html',
