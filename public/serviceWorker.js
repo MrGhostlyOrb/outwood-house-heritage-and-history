@@ -10,6 +10,11 @@
 let cacheName = 'cache-v1';
 let filesToCache = [
     'index.html',
+    'aboutus.html',
+    'contactus.html',
+    'thestoryofoutwood.html',
+    'historyof.html',
+    'phasetwo.html',
     'css/style.css',
     'images/logo.webp',
     'images/favicon.ico',
