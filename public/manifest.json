@@ -2,7 +2,7 @@
   "$schema": "https://json.schemastore.org/web-manifest-combined.json",
   "name": "St. Anselm's College Heritage and Historical Society",
   "short_name": "Outwood",
-  "start_url": "//",
+  "start_url": "https://sacert-outwood.herokuapp.com//index.html",
   "scope": "//",
   "display": "standalone",
   "background_color": "#fff",
