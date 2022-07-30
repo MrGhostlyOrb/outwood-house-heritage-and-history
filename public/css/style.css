@@ -2,6 +2,11 @@ body {
     margin: 0;
     font-family: 'Poppins', sans-serif;
     font-size: 1.2em;
+    background-color: #f8f8f8;
+}
+
+p{
+    padding: 1em;
 }
 
 header {
@@ -54,11 +59,14 @@ article {
 }
 
 .home div {
-    padding: 16px;
     background-color: #fafafa;
     border-radius: 10px;
     border: black 1px solid;
     margin: 16px;
+}
+
+.home img{
+    border-radius: 10px 10px 0 0;
 }
 
 .button {
