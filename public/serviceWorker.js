@@ -74,8 +74,8 @@ let filesToCache = [
     'images/phase_two/35.jpg',
     'images/phase_two/36.jpg',
     'images/phase_two/37.jpg',
-    'images/IMG_0839.JPG',
-    'images/IMG_0874.JPG',
+    'images/IMG_0839.webp',
+    'images/IMG_0874.webp',
     'images/phase_two.webp'
 ];
 

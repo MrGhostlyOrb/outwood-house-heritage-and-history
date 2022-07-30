@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: 'Poppins', sans-serif;
     font-size: 1.2em;
-    background-color: #f8f8f8;
+    background-color: #ffffff;
 }
 
 p{
@@ -58,15 +58,27 @@ article {
     }
 }
 
-.home div {
-    background-color: #fafafa;
+.home a {
+    background-color: #ffffff;
     border-radius: 10px;
-    border: black 1px solid;
     margin: 16px;
+    padding: 16px;
+    border: #ffffff 3px solid;
+}
+
+.home a{
+    display: inline-block;
+    text-decoration: none;
+
+}
+
+.home a:hover {
+    border: black 3px solid;
 }
 
 .home img{
-    border-radius: 10px 10px 0 0;
+    border-radius: 10px;
+    width: 100%;
 }
 
 .button {
