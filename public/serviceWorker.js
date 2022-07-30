@@ -73,7 +73,10 @@ let filesToCache = [
     'images/phase_two/34.jpg',
     'images/phase_two/35.jpg',
     'images/phase_two/36.jpg',
-    'images/phase_two/37.jpg'
+    'images/phase_two/37.jpg',
+    'images/IMG_0839.JPG',
+    'images/IMG_0874.JPG',
+    'images/phase_two.webp'
 ];
 
 self.addEventListener('install', function(event) {
