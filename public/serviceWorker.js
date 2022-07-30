@@ -19,6 +19,7 @@ let filesToCache = [
     'images/logo.webp',
     'images/favicon.ico',
     'images/outwood.webp',
+    'images/outwood_background.webp',
     'manifest.json',
     'images/CDF.webp',
     'images/HLF.webp',
