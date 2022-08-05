@@ -119,6 +119,7 @@ nav ul {
     padding: 0;
 }
 
+
 footer {
     background-color: #fafafa;
     text-align: center;
@@ -140,4 +141,59 @@ footer {
 video {
     width: 100%;
     height: auto;
+}
+
+/*Dark mode*/
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #444444;
+    }
+    h1 {
+        color: white;
+    }
+    p {
+        color: white;
+    }
+    ul {
+        color: white;
+    }
+    div {
+        color: white;
+    }
+    a {
+        color: white;
+    }
+    h2 {
+        color: white;
+    }
+    h3 {
+        color: white;
+    }
+    header {
+        background-color: #444444;
+        color: white;
+    }
+    footer {
+        background-color: #444444;
+        color: white;
+    }
+    .home a {
+        background-color: #444444;
+        color: white;
+        border: #444444 3px solid;
+    }
+    .home a:hover {
+        border: white 3px solid;
+    }
+    .home img{
+        border-radius: 10px;
+        width: 100%;
+    }
+    .button {
+        background-color: #444444;
+        color: white;
+    }
+    nav ul li a {
+        color: white;
+    }
 }
